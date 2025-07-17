@@ -17,6 +17,6 @@
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-$(call inherit-product, device/alps/z6u030/full_z6u030.mk)
+$(call inherit-product, device/m9/s13/full_s13.mk)
 
-PRODUCT_NAME := omni_z6u030
+PRODUCT_NAME := omni_s13
