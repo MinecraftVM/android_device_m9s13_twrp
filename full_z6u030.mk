@@ -18,8 +18,8 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := z6u030
-PRODUCT_NAME := full_z6u030
-PRODUCT_BRAND := alps
-PRODUCT_MODEL := z6u030_alps
-PRODUCT_MANUFACTURER := alps
+PRODUCT_DEVICE := s13
+PRODUCT_NAME := M9
+PRODUCT_BRAND := M9
+PRODUCT_MODEL := M9
+PRODUCT_MANUFACTURER := M9
